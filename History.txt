@@ -2,7 +2,3 @@ xx
 xx
 xx
 xx
-<<<<<<< HEAD
-xx
-=======
->>>>>>> 651af774d06d72bf7b8a8d2d01762d0a36c1d70e
